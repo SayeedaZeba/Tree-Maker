@@ -1,0 +1,2 @@
+# Tree-Maker
+The Tree Maker is a project which takes an input of numbers and represents them in the form of three different trees:  BST (Binary Search Tree) , AVL tree , B-tree. This can be used by students who learn about different tree structures in data structures. They will be able to visualize the formation and structures of the trees. The project has been designed using C++, with features like classes, objects, among others.
